@@ -1,0 +1,1 @@
+print("This code contains the model of Machine learning which is used now ")
